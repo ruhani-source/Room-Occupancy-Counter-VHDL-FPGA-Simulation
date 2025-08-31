@@ -2,7 +2,7 @@
 This project implements a digital system in VHDL that accurately tracks the number of people in a room using two photocell-based binary sensors one at the entrance and one at the exit. The system maintains a running count of occupants, compares it against a programmable 8-bit maximum capacity, and activates a max capacity signal once it is reached.
 
 
-Key features:
+**Key features:**
 
 🚪 Entry/Exit Detection: Photocell sensors trigger binary signals for real-time counting.
 
@@ -17,7 +17,7 @@ Key features:
 💻 Simulation & Synthesis: Designed for Xilinx Nexys A7 FPGA using Vivado; includes synthesis and simulation logs.
 
 
-📁 Structure
+**Structure:**
 
 src/ – VHDL source files
 
@@ -30,7 +30,7 @@ synth/ – Synthesis logs and reports
 docs/ – Design diagrams and documentation
 
 
-🚀 Tools Used
+**Tools Used:**
 
 Language: VHDL
 
