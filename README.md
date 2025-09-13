@@ -38,6 +38,3 @@ Simulator: Xilinx Vivado
 Target FPGA: Nexys A7
 Development Environment: Vivado Design Suite
 
-📌 Use Case
-
-Ideal for demonstrating digital logic design, state machine implementation, and FPGA simulation workflows for academic or professional portfolios.
